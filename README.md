@@ -5,13 +5,17 @@ Software developer
 ## Tech Stack
 
 ### Languages
-Python · Java · SQL · PostgreSQL
+
+[![Languages](https://skillicons.dev/icons?i=python,java,postgres)](https://skillicons.dev)
 
 ### Frameworks
-React
+
+[![Frameworks](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 ### Tools
+
 Git · GitHub · Docker · Linux
+
 
 ## GitHub Stats
 
