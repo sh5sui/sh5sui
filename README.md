@@ -6,7 +6,17 @@ Software developer
 
 ### Languages
 
-<p align="left"> <span> <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/><br> <strong>Python</strong> </span> &nbsp;&nbsp; <span> <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/><br> <strong>Java</strong> </span> </p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
+</p>
+
+
+
+<p align="left">
+<strong>Python</strong>      
+<strong>Java</strong>
+</p>
 
 ### Databases
 
