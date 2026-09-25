@@ -8,7 +8,7 @@ Software developer
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=java" width="70" alt="Java"/>
 </p>
 
 
