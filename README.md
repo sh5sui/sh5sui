@@ -2,49 +2,19 @@
 
 Software developer
 
-## Tech Stack
-
-### Languages
+### core skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=python,java,react,postgres,git,github,docker,linux&theme=dark" alt="core skills" />
 </p>
 
-<p align="left">
-<strong>Python</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<strong>Java</strong>
-</p>
+* **languages**: Python • Java
+* **frontend**: React
+* **databases**: PostgreSQL
+* **minecraft / modding**: Fabric API
+* **tools**: Git • GitHub • Docker • Linux
 
-### Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/>
-</p>
-
-<p align="left">
-<strong>PostgreSQL</strong>
-</p>
-
-### Frameworks
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/>
-</p>
-
-<p align="left">
-<strong>React</strong>
-</p>
-
-### Minecraft / Modding
-
-<p align="left">
-<strong>Fabric API</strong>
-</p>
-
-### Tools
-
-Git · GitHub · Docker · Linux
+---
 
 ## GitHub Stats
 
