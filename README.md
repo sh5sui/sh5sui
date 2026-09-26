@@ -11,29 +11,40 @@ Software developer
 <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
 </p>
 
-
-
 <p align="left">
-<strong>Python</strong>      
+<strong>Python</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <strong>Java</strong>
 </p>
 
 ### Databases
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/> </p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/>
+</p>
 
-<p align="left"> <strong>PostgreSQL</strong> </p>
+<p align="left">
+<strong>PostgreSQL</strong>
+</p>
 
 ### Frameworks
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/> </p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/>
+</p>
 
-<p align="left"> <strong>React</strong> </p>
+<p align="left">
+<strong>React</strong>
+</p>
+
+### Minecraft / Modding
+
+<p align="left">
+<strong>Fabric API</strong>
+</p>
 
 ### Tools
 
 Git · GitHub · Docker · Linux
-
 
 ## GitHub Stats
 
