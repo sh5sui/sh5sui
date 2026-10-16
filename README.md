@@ -18,11 +18,11 @@ Cybersecurity / SOC Analyst
 ### activity & stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=2sxw&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2sxw&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sh5sui&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh5sui&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="top languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2sxw&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="commit activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh5sui&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="commit activity graph" />
 </p>
 
