@@ -14,18 +14,18 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          use_prebuilt_image: yes
 
-          # Clean, minimal base (only header & repo stats, no clutter)
+          # Clean, minimal base (header & repo stats)
           base: header, repositories
           config_timezone: Europe/London
           config_display: columns
-          config_padding: 0, 8%
 
           # 3D Contributions Calendar (commit history & streak)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # Coding Habits (clean commit activity bar charts only, no text bloat)
+          # Coding Habits (commit activity bar charts)
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: no
@@ -34,12 +34,12 @@ jobs:
 
           # Most Used Languages bar
           plugin_languages: yes
-          plugin_languages_categories: programming
+          plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 4
           plugin_languages_sections: most-used
 
-          # WakaTime (minimal: just coding time & languages)
+          # WakaTime (coding time & languages)
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
