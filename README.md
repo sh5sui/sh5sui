@@ -1,21 +1,21 @@
-# Sh5sui
+# 2sxw
 
-Software developer
+Cybersecurity / SOC Analyst
 
-### core skills
+### skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,react,postgres,sqlite,git,github,docker,linux&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,postgres,sqlite,git,github,docker,linux&theme=dark" alt="skills" />
 </p>
 
-* **languages**: Python • Java
+* **languages**: Python • JavaScript
 * **frontend**: React
 * **databases**: PostgreSQL • SQLite
-* **minecraft / modding**: Fabric API
-* **tools**: Git • GitHub • Docker • Linux
+* **tools & os**: Linux • Docker • Git • GitHub
 
 ---
 
-## GitHub Stats
+### stats
 
 ![Metrics](./github-metrics.svg)
+
