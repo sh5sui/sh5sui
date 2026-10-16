@@ -19,7 +19,7 @@ Cybersecurity / SOC Analyst
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sh5sui&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh5sui&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=77007bcb-e151-4114-a620-7398984b89a0&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="wakatime stats" />
 </p>
 
 <p align="left">
